@@ -1,0 +1,86 @@
+{
+    "name": "IVT Traffic Analysis Theme",
+    "background": "#F5F6FA",
+    "foreground": "#2F3640",
+    "tableAccent": "#2E86AB",
+    "dataColors": [
+        "#2E86AB",
+        "#43AA8B",
+        "#F94144",
+        "#F9C74F",
+        "#577590"
+    ],
+    "visualStyles": {
+        "*": {
+            "titleText": [
+                {
+                    "fontSize": 14,
+                    "fontFamily": "Segoe UI Semibold",
+                    "color": {
+                        "solid": {
+                            "color": "#2F3640"
+                        }
+                    }
+                }
+            ],
+            "labels": [
+                {
+                    "fontSize": 11,
+                    "color": {
+                        "solid": {
+                            "color": "#2F3640"
+                        }
+                    }
+                }
+            ],
+            "background": [
+                {
+                    "color": {
+                        "solid": {
+                            "color": "#FFFFFF"
+                        }
+                    }
+                }
+            ]
+        },
+        "pieChart": {
+            "*": {
+                "dataColors": [
+                    {
+                        "solid": {
+                            "color": "#43AA8B"
+                        }
+                    },
+                    {
+                        "solid": {
+                            "color": "#F94144"
+                        }
+                    }
+                ]
+            }
+        },
+        "card": {
+            "*": {
+                "titleText": [
+                    {
+                        "color": {
+                            "solid": {
+                                "color": "#2E86AB"
+                            }
+                        }
+                    }
+                ],
+                "labels": [
+                    {
+                        "color": {
+                            "solid": {
+                                "color": "#2F3640"
+                            }
+                        },
+                        "fontSize": 12
+                    }
+                ]
+            }
+        }
+    }
+}
