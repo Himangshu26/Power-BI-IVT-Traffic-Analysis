@@ -1,3 +1,4 @@
+<img width="1024" height="1536" alt="Example of this project" src="https://github.com/user-attachments/assets/75a7d4e7-bef2-48f6-89e2-25058ff3f40d" />
 # 🧠 IVT Traffic Analysis using Power BI
 
 This project analyzes **ad traffic patterns** across six mobile apps — three valid and three invalid (marked IVT).  
@@ -39,6 +40,5 @@ IF(
     "IVT",
     "Valid"
 )
-      <img width="1024" height="1536" alt="Example of this project" src="https://github.com/user-attachments/assets/4ffaab80-8d09-43b5-b3e2-f131c9efc577" />
-
+      <img width="1024" height="1536" alt="Example of this project" src="https://github.com/user-attachments/assets/3ec70fe3-a05f-4ba0-9754-e1866ef93670" />
 
